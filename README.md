@@ -22,9 +22,9 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-       * [ ] Ability to change default color
-       * [ ] Ability to see bill if split different ways
-       * [ ] Written out default amount at top of settings page
+       * [X] Ability to change default color
+       * [X] Ability to see bill if split different ways
+       * [X] Written out default amount at top of settings page
 
 ## Video Walkthrough 
 
