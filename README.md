@@ -1,10 +1,10 @@
-# Pre-work - Tippy
+# Pre-work - **Tippy**
 
 Tippy is a tip calculator application for iOS.
 
-Submitted by: Michaela Foote
+Submitted by: **Michaela Foote**
 
-Time spent: 15 hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
